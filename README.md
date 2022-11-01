@@ -1,8 +1,8 @@
-# Project Name
+# Project 04 - 2D Platformer
 
-Context and date
+Exploring how to build a 2D Platformer game. 
 
-Description
+November 11, 2022 
 
 ## Implementation
 Which features you included
@@ -10,6 +10,7 @@ Which features you included
 ## References
 
 ## Future Development
+None 
 
 ## Created by
-Jason Francis
+Natalie Austin 
